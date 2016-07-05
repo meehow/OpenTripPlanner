@@ -22,7 +22,7 @@ otp.locale.Polish = {
     config : 
     {
         metricsSystem : "international",
-        rightClickMsg : "Kliknij prawym przyciskiem myszy i wybierz początke i koniec podróży.",
+        rightClickMsg : "Kliknij prawym przyciskiem myszy i wybierz początek i koniec podróży.",
         attribution   : {
             title   : "License Attribution",
             content : "Disclaimer goes here"
@@ -141,7 +141,7 @@ otp.locale.Polish = {
     {
 // TODO
         walk         : "Idź",
-        walk_toward  : "Idż",
+        walk_toward  : "Idź",
         walk_verb    : "Idź",
         bike         : "Jedź",
         bike_toward  : "Jedź",
@@ -158,8 +158,8 @@ otp.locale.Polish = {
         continue_as  : "Kontynuuje jako",
         stay_aboard  : "pozostań w pojeździe",
 
-        depart       : "Odjeżdza",
-        arrive       : "Przyjeżdza",
+        depart       : "Odjeżdża",
+        arrive       : "Przyjeżdża",
 
         start_at     : "Rozpocznij",
         end_at       : "Skończ"
@@ -208,16 +208,16 @@ otp.locale.Polish = {
     ordinal_exit:
     {
 // TODO
-        1:  "do pierwszego wyjśćia",
-        2:  "do drugiego wyjśćia",
-        3:  "do trzeciego wyjśćia",
-        4:  "do czwartego wyjśćia",
-        5:  "do piątego wyjśćia",
-        6:  "do szóstego wyjśćia",
-        7:  "do siódmego wyjśćia",
-        8:  "do ósmego wyjśćia",
-        9:  "do dziewiątego wyjśćia",
-        10: "do dziesiątego wyjśćia"
+        1:  "do pierwszego wyjścia",
+        2:  "do drugiego wyjścia",
+        3:  "do trzeciego wyjścia",
+        4:  "do czwartego wyjścia",
+        5:  "do piątego wyjścia",
+        6:  "do szóstego wyjścia",
+        7:  "do siódmego wyjścia",
+        8:  "do ósmego wyjścia",
+        9:  "do dziewiątego wyjścia",
+        10: "do dziesiątego wyjścia"
     },
 
     time:
@@ -257,7 +257,7 @@ otp.locale.Polish = {
             tabTitle      : "Zaplanuj podróż",
             inputTitle    : "Szczegóły podróży",
             optTitle      : "Preferencje podróży (opcjonalne)",
-            submitMsg     : "Planuje Twoją podróż...",
+            submitMsg     : "Planuję Twoją podróż...",
             optionalTitle : "",
             date          : "Data",
             time          : "Godzina",
@@ -268,10 +268,10 @@ otp.locale.Polish = {
             toHere        : "Dokąd",
             intermediate  : "Intermediate Place",            // TODO
             minimize      : "Pokaż",
-            maxWalkDistance: "Maksymalny spacer",
-            walkSpeed     : "chodzić prędkość",              // TODO
-            maxBikeDistance: "Maksymalny rower",              // TODO
-            bikeSpeed     : "prędkość rower",              // TODO
+            maxWalkDistance: "Maksymalny dystans pieszo",
+            walkSpeed     : "prędkość chodu",
+            maxBikeDistance: "Maksymalny dystans rowerem",
+            bikeSpeed     : "prędkość roweru",
             arriveDepart  : "Dojazd/odjazd o",
             mode          : "Podróżuj",
             wheelchair    : "Podróż dostępna dla niepełnosprawnych", 
@@ -298,9 +298,9 @@ otp.locale.Polish = {
         geocoder:
         {
 //TODO
-            working      : "Poszukuje adresu ....",
+            working      : "Poszukuję adresu ....",
             error        : "Brak pasujących wyników",
-            msg_title    : "Czy chciałbyś ocenić zaproponowana podróż",
+            msg_title    : "Czy chciałbyś ocenić zaproponowaną podróż",
             msg_content  : "Les correct errors before planning your trip",
             select_result_title : "Wybierz adres",
             address_header : "Adres"
